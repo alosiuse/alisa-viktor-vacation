@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<spisok>
+	<reis>
+		<id>137</id>
+		<icaofrom>KBP</icaofrom>
+		<icaoto>ZRH</icaoto>
+		<acompany>Ukraine International Airlines</acompany>
+		<timefrom>20.30</timefrom>
+		<timeto>21.45</timeto>
+		<price>538.60</price>
+	</reis>
+	<reis>
+		<id>4371</id>
+		<icaofrom>KBP</icaofrom>
+		<icaoto>ZRH</icaoto>
+		<acompany>Swiss Airlines LTD</acompany>
+		<timefrom>20.30</timefrom>
+		<timeto>21.45</timeto>
+		<price>678.70</price>
+	</reis>
+<reis>
+		<id>111</id>
+		<icaofrom>KBP</icaofrom>
+		<icaoprom>FHR</icaoprom>
+		<icaoto>ZRH</icaoto>
+		<acompany>Hungary Airlines</acompany>
+		<timefrom>16.45</timefrom>
+		<timeto>20.00</timeto>
+		<price>704.80</price>
+	</reis>	
+</spisok>
