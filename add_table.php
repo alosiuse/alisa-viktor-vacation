@@ -1,7 +1,6 @@
 <HEAD>
 <TITLE> Турагенство "Travel" - Добавление данных о туристе  </TITLE> 
 </HEAD> 
-
 <BODY> 
 <H1> Турагенство "Travel".</H1> 
 <H2> Добавление данных о туристе.</H2> 
@@ -29,6 +28,6 @@
 	VALUES ('".$SecondName."','".$FirstName."','".$Patronym ."','".$SeriaPassport 
 	."','".$NumberPassport ."')"; 
 	$result = mysql_query($query); 
-	if($result) echo "<H3>Информация о туристе успешно добавлена в базу данных.</H3>"; } 
+	if($result) echo "<H3>Інформація о туристе успешно добавлена в базу данных.</H3>"; } 
 ?>
 </BODY>
